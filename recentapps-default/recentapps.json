@@ -1,0 +1,113 @@
+{
+  "updateIntervalMinutes": {
+    "4G": 15,
+    "3G": 15,
+    "2G": 15,
+    "WIFI": 15
+  },
+  "exp_id": "1082-2709.",
+  "extra": "0",
+  "list": [
+    {
+      "minuteEnd": 60,
+      "appList": [
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.tencent.mm"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.android.browser"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.xiaomi.market"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.miui.video"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.miui.player"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.tencent.mobileqq"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.eg.android.AlipayGphone"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.ss.android.ugc.aweme"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.taobao.taobao"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.mfashiongallery.emag"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.xiaomi.shop"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.autonavi.minimap"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.qiyi.video"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.snda.wifilocating"
+        },
+        {
+          "extra": {},
+          "appScore": -1.0,
+          "packageName": "com.tencent.qqlive"
+        },
+        {
+          "appScore": 0.0,
+          "packageName": "com.ss.android.article.news"
+        },
+        {
+          "appScore": 0.0,
+          "packageName": "com.ss.android.article.video"
+        },
+        {
+          "appScore": 0.0,
+          "packageName": "com.duokan.reader"
+        },
+        {
+          "appScore": 0.0,
+          "packageName": "com.baidu.searchbox"
+        },
+        {
+          "appScore": 0.0,
+          "packageName": "com.sina.weibo"
+        }
+      ],
+      "minuteBegin": 0
+    }
+  ]
+}
