@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <title>禁止访问！</title>
+
+  <style>
+    html,
+    body {
+      font-size: 16px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+    }
+
+    .site-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .warn-logo {
+      width: 12.8vw;
+      height: 12.8vw;
+      margin: 22.13vw auto 4vw;
+      background: url(img/ic_intercept.svg) no-repeat center/100% 100%;
+    }
+
+    .warn-label {
+      font: 3.2rem/4.2rem MILanPro--GB1-4;
+      color: #E6270E;
+      text-align: center;
+      margin-bottom: 1.3vw;
+    }
+
+    .ban-label {
+      width: 28.8rem;
+    }
+  </style>
+</head>
+
+<body>
+  <content class="site-content">
+    <div class="warn-logo"></div>
+    <div class="warn-label ban-label">根据国家法律法规，<br />本页面禁止访问！</div>
+  </content>
+  <script>
+    (function () {
+      document.getElementsByTagName('html')[0].style.fontSize = window.screen.width / 67.5 + 'px';
+    })()
+  </script>
+</body>
+
+</html>
